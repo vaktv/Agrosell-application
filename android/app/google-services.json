@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12391079199",
+    "project_id": "agrosell-20df4",
+    "storage_bucket": "agrosell-20df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12391079199:android:3f83e143d538652dcde42a",
+        "android_client_info": {
+          "package_name": "com.example.agrosellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12391079199-j9v6k3d0ak1qlkbatn1dp8opme5rcbh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSctGP-0__24VVucejEbIH3GyVLx59NlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12391079199-j9v6k3d0ak1qlkbatn1dp8opme5rcbh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

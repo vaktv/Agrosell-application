@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210833061597",
+    "project_id": "agrosellapp-24b21",
+    "storage_bucket": "agrosellapp-24b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210833061597:android:3ebde51eee9c9afc5a4d34",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210833061597-mnbhbgsj9tanifvffp22uqrq6elcu760.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQJsu46XPVnQN6a67MEbVZaUNtTX-aXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210833061597-mnbhbgsj9tanifvffp22uqrq6elcu760.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
