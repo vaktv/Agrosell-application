@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started with flutter
+## Getting Started with flutter and dart
 
 This project is a starting point for a Flutter application.
 
